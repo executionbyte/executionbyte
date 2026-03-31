@@ -1,50 +1,68 @@
-# 👋 Execution Byte
+# 👋 Welcome to Execution Byte
 
-**Software development studio • 5 engineers • Full-stack**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=We+build+scalable+web+apps;Full-stack+development+studio;Clean+code.+Fast+delivery.;5+engineers+%7C+Global+clients" />
+</p>
 
-We design, build, and ship scalable web applications and APIs — clean code, on time.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=executionbyte&label=Profile%20views&color=6366f1&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 🚀 What we build
+## 🚀 About Us
 
-| Layer       | Technologies |
-|------------|-------------|
-| Frontend   | React, Next.js, TypeScript, Tailwind CSS |
-| Backend    | Node.js, Express, Python, FastAPI |
-| Database   | PostgreSQL, MongoDB, Prisma ORM |
-| Auth       | JWT, NextAuth, OAuth 2.0 |
-| DevOps     | Docker, AWS, Vercel, Railway |
+**Execution Byte** is a modern software development studio.
+
+We specialize in building **fast, scalable, and production-ready** web applications and APIs.
+
+- 👨‍💻 5 Engineers Team  
+- 🌍 Remote-first (India → Global)  
+- ⚡ Fast delivery & clean architecture  
+- 🤝 Freelance + long-term partnerships  
 
 ---
 
 ## 🧠 Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### Frontend
+React • Next.js • TypeScript • Tailwind CSS  
+
+### Backend
+Node.js • Express • Python • FastAPI  
+
+### Database
+PostgreSQL • MongoDB • Prisma ORM  
+
+### DevOps
+Docker • AWS • Vercel • Railway  
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=executionbyte&show_icons=true&theme=default&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=executionbyte&show_icons=true&hide_border=true&title_color=6366f1&icon_color=6366f1" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=executionbyte&hide_border=true&ring=6366f1" height="150"/>
+</p>
 
 ---
 
-## 🤝 Work with us
+## 💼 Services
 
-We take on freelance projects and long-term product partnerships.
+- 🌐 Web App Development  
+- 🔌 API Development  
+- ⚙️ SaaS Product Development  
+- 🚀 MVP Launch  
+- 🛠 Maintenance & Scaling  
+
+---
+
+## 🤝 Work With Us
 
 - 📧 executionbyte@gmail.com  
 - 🌐 https://executionbyte.com *(coming soon)*  
-- 📍 India — working globally  
+- 📍 India — working worldwide  
 
 ---
 
@@ -54,4 +72,15 @@ We take on freelance projects and long-term product partnerships.
 
 ---
 
-⭐ *Building products that scale.*
+## ⭐ Featured Projects (Coming Soon)
+
+We’re currently building and will showcase:
+- SaaS platforms  
+- Developer tools  
+- Scalable APIs  
+
+---
+
+<p align="center">
+  <b>⚡ Building products that scale</b>
+</p>
