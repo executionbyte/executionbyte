@@ -12,7 +12,7 @@
 
 ## 🚀 About Us
 
-**Execution Byte** is a modern software development studio.
+**Execution Byte** is a modern software Solution.
 
 We specialize in building **fast, scalable, and production-ready** web applications and APIs.
 
