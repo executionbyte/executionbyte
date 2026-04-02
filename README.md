@@ -16,7 +16,7 @@
 
 We specialize in building **fast, scalable, and production-ready** web applications and APIs.
 
-- 👨‍💻 5 Engineers Team  
+- 👨‍💻 Proficient Engineers
 - 🌍 Remote-first (India → Global)  
 - ⚡ Fast delivery & clean architecture  
 - 🤝 Freelance + long-term partnerships  
