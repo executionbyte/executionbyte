@@ -1,7 +1,7 @@
 # 👋 Welcome to Execution Byte
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=We+build+scalable+web+apps;Full-stack+development+studio;Clean+code.+Fast+delivery.;5+engineers+%7C+Global+clients" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=We+build+scalable+web+apps;Full-stack+development;Clean+code.+Fast+delivery.;Global+clients" />
 </p>
 
 <p align="center">
